@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "question": "What is 15 + 27?",
+    "options": ["42", "43", "44", "45"],
+    "answer": "42"
+  },
+  {
+    "id": 2,
+    "question": "What is 68 - 39?",
+    "options": ["28", "29", "30", "31"],
+    "answer": "29"
+  },
+  {
+    "id": 3,
+    "question": "What is 12 × 9?",
+    "options": ["107", "108", "109", "110"],
+    "answer": "108"
+  },
+  {
+    "id": 4,
+    "question": "What is 84 ÷ 12?",
+    "options": ["6", "7", "8", "9"],
+    "answer": "7"
+  },
+  {
+    "id": 5,
+    "question": "What is 25 + 38?",
+    "options": ["62", "63", "64", "65"],
+    "answer": "63"
+  },
+  {
+    "id": 6,
+    "question": "What is 95 - 47?",
+    "options": ["47", "48", "49", "50"],
+    "answer": "48"
+  },
+  {
+    "id": 7,
+    "question": "What is 15 × 8?",
+    "options": ["119", "120", "121", "122"],
+    "answer": "120"
+  },
+  {
+    "id": 8,
+    "question": "What is 96 ÷ 16?",
+    "options": ["5", "6", "7", "8"],
+    "answer": "6"
+  },
+  {
+    "id": 9,
+    "question": "What is 37 + 45?",
+    "options": ["81", "82", "83", "84"],
+    "answer": "82"
+  },
+  {
+    "id": 10,
+    "question": "What is 78 - 52?",
+    "options": ["25", "26", "27", "28"],
+    "answer": "26"
+  },
+  {
+    "id": 11,
+    "question": "What is 18 × 7?",
+    "options": ["125", "126", "127", "128"],
+    "answer": "126"
+  },
+  {
+    "id": 12,
+    "question": "What is 108 ÷ 18?",
+    "options": ["5", "6", "7", "8"],
+    "answer": "6"
+  },
+  {
+    "id": 13,
+    "question": "What is 49 + 56?",
+    "options": ["104", "105", "106", "107"],
+    "answer": "105"
+  },
+  {
+    "id": 14,
+    "question": "What is 87 - 63?",
+    "options": ["23", "24", "25", "26"],
+    "answer": "24"
+  },
+  {
+    "id": 15,
+    "question": "What is 21 × 6?",
+    "options": ["125", "126", "127", "128"],
+    "answer": "126"
+  },
+  {
+    "id": 16,
+    "question": "What is 120 ÷ 20?",
+    "options": ["5", "6", "7", "8"],
+    "answer": "6"
+  },
+  {
+    "id": 17,
+    "question": "What is 58 + 67?",
+    "options": ["124", "125", "126", "127"],
+    "answer": "125"
+  },
+  {
+    "id": 18,
+    "question": "What is 94 - 71?",
+    "options": ["22", "23", "24", "25"],
+    "answer": "23"
+  },
+  {
+    "id": 19,
+    "question": "What is 24 × 5?",
+    "options": ["119", "120", "121", "122"],
+    "answer": "120"
+  },
+  {
+    "id": 20,
+    "question": "What is 132 ÷ 22?",
+    "options": ["5", "6", "7", "8"],
+    "answer": "6"
+  },
+  {
+    "id": 21,
+    "question": "What is 69 + 78?",
+    "options": ["146", "147", "148", "149"],
+    "answer": "147"
+  },
+  {
+    "id": 22,
+    "question": "What is 101 - 76?",
+    "options": ["24", "25", "26", "27"],
+    "answer": "25"
+  },
+  {
+    "id": 23,
+    "question": "What is 27 × 4?",
+    "options": ["107", "108", "109", "110"],
+    "answer": "108"
+  },
+  {
+    "id": 24,
+    "question": "What is 144 ÷ 24?",
+    "options": ["5", "6", "7", "8"],
+    "answer": "6"
+  },
+  {
+    "id": 25,
+    "question": "What is 76 + 89?",
+    "options": ["164", "165", "166", "167"],
+    "answer": "165"
+  },
+  {
+    "id": 26,
+    "question": "What is 112 - 87?",
+    "options": ["24", "25", "26", "27"],
+    "answer": "25"
+  },
+  {
+    "id": 27,
+    "question": "What is 30 × 3?",
+    "options": ["89", "90", "91", "92"],
+    "answer": "90"
+  },
+  {
+    "id": 28,
+    "question": "What is 156 ÷ 26?",
+    "options": ["5", "6", "7", "8"],
+    "answer": "6"
+  },
+  {
+    "id": 29,
+    "question": "What is 83 + 94?",
+    "options": ["176", "177", "178", "179"],
+    "answer": "177"
+  },
+  {
+    "id": 30,
+    "question": "What is 125 - 98?",
+    "options": ["26", "27", "28", "29"],
+    "answer": "27"
+  }
+]

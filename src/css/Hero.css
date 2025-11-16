@@ -1,0 +1,196 @@
+/* Hero.css */
+
+.hero-section {
+  position: relative;
+  min-height: 73vh;
+  max-width: none;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  /* Richer, deeper space background gradient */
+  background: linear-gradient(135deg, #030e18, #081027, #573a03);
+  color: #fff;
+  font-family: "Orbitron", sans-serif;
+}
+
+.overlay {
+  position: relative; 
+  z-index: 10;
+  text-align: center;
+  padding: 40px 60px; /* Increased padding to match the image frame size */
+  background: rgba(0, 0, 0, 0.5); /* Slightly darker transparent background */
+  border-radius: 20px;
+  /* The iconic neon border from the image */
+  border: 4px solid #00ffff;
+  box-shadow: 0 0 10px #092525, 0 0 20px #16427b, 0 0 40px #0c1b55, inset 0 0 10px #0c8282;
+}
+
+.overlay h1 {
+  font-size: 3.5em;
+  margin-bottom: 0.2em;
+  /* Neon text style */
+  text-shadow: 0 0 10px #021f28, 0 0 20px #0916a8; 
+  animation: pulse-glow 3s infinite alternate;
+}
+
+.overlay p {
+  font-size: 1.2em;
+  margin-bottom: 1.5em;
+  color: #aaffff;
+}
+
+.hero-features {
+  display: flex;
+  justify-content: center;
+  gap: 2em;
+  margin-bottom: 2em;
+  flex-wrap: wrap;
+}
+
+.feature-item {
+  display: flex;
+  align-items: center;
+  gap: 0.5em;
+  color: #ffffff;
+  font-size: 1.1em;
+  font-weight: 500;
+}
+
+.feature-icon {
+  font-size: 1.5em;
+}
+
+.hero-subtitle {
+  font-size: 1em;
+  color: #ffff00;
+  margin-top: 1em;
+  font-weight: 600;
+}
+
+.cta-button {
+  display: inline-block;
+  padding: 15px 35px;
+  /* Updated gradient for a smoother transition */
+  background: linear-gradient(90deg, #00c9ff, #8000ff); 
+  color: #fff;
+  text-decoration: none;
+  border-radius: 50px;
+  font-size: 1.2em;
+  font-weight: bold;
+  transition: all 0.3s ease;
+  /* Softer button glow */
+  /* box-shadow: 0 0 15px rgba(0, 201, 255, 0.8); */
+  border: none;
+}
+
+.cta-button:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 25px rgb(100, 1, 199);
+  background: linear-gradient(90deg, #8000ff, #04a1cc);
+  color: whitesmoke;
+}
+
+/* Base Planet Style (No more neon glow here!) */
+.planet {
+  position: absolute;
+  border-radius: 50%;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.5); /* Subtle shadow for depth */
+  z-index: 5;
+  /* Using float animation for slight movement */
+  animation: float 20s infinite ease-in-out alternate; 
+}
+
+/* Planet 1: Purple/Pink Gas Giant (Top Left) */
+.planet-1 {
+  width: 180px;
+  height: 180px;
+  top: 10%;
+  left: 10%;
+  /* Realistic gas giant colors (Pink, Blue, Violet) */
+  background: radial-gradient(
+    circle at 50% 50%,
+    #ff00ff 0%,
+    #8a2be2 30%,
+    #00ffff 70%,
+    #00008b 100%
+  );
+  /* Ring system */
+  &::after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 250px; /* Wider ring */
+    height: 100px;
+    border-radius: 50%;
+    transform: translate(-50%, -50%) rotateX(70deg) rotateZ(20deg);
+    border: 2px solid rgba(255, 255, 255, 0.3);
+    background: rgba(255, 255, 255, 0.05);
+  }
+}
+
+/* Planet 2: Orange/Yellow Rocky Planet (Bottom Right) */
+.planet-2 {
+  width: 150px;
+  height: 150px;
+  bottom: 5%;
+  right: 10%;
+  /* Realistic rocky/desert colors (Orange, Red, Black) */
+  background: radial-gradient(
+    circle at 70% 30%,
+    #ffff00 0%,
+    #ff4500 50%,
+    #8b0000 80%,
+    #333333 100%
+  );
+  /* Ring system */
+  &::after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 200px; 
+    height: 80px;
+    border-radius: 50%;
+    transform: translate(-50%, -50%) rotateX(70deg) rotateZ(-30deg);
+    border: 2px solid rgba(255, 255, 255, 0.2);
+    background: rgba(255, 255, 255, 0.05);
+  }
+}
+
+/* New Planet 3: Distant Blue Ice Planet (Top Right) */
+.planet-3 {
+  width: 80px;
+  height: 80px;
+  top: 5%;
+  right: 25%;
+  background: radial-gradient(
+    circle at 30% 70%,
+    #add8e6 0%,
+    #4682b4 50%,
+    #000080 100%
+  ); /* Ice blue/deep blue */
+  opacity: 0.6; /* Making it look distant */
+  animation-delay: 5s; /* Stagger animation */
+}
+
+/* New Planet 4: Dark Red/Brown Planet (Bottom Left) */
+.planet-4 {
+  width: 100px;
+  height: 100px;
+  bottom: 20%;
+  left: 5%;
+  background: radial-gradient(
+    circle at 70% 70%,
+    #cd5c5c 0%,
+    #a52a2a 50%,
+    #400000 100%
+  ); /* Mars-like dusty red */
+  opacity: 0.7;
+  animation-delay: 10s;
+}
+
+/* Star Styles and Animations remain the same for twinkle effect */
+/* ... (star styles and keyframes are unchanged) ... */

@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "question": "What is the chemical symbol for water?",
+    "options": ["H2O", "CO2", "O2", "N2"],
+    "answer": "H2O"
+  },
+  {
+    "id": 2,
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+    "answer": "Mars"
+  },
+  {
+    "id": 3,
+    "question": "What is the powerhouse of the cell?",
+    "options": ["Nucleus", "Mitochondria", "Ribosome", "Endoplasmic Reticulum"],
+    "answer": "Mitochondria"
+  },
+  {
+    "id": 4,
+    "question": "Which gas do plants absorb during photosynthesis?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "id": 5,
+    "question": "What is the boiling point of water at sea level?",
+    "options": ["90°C", "100°C", "110°C", "120°C"],
+    "answer": "100°C"
+  },
+  {
+    "id": 6,
+    "question": "Which element has the atomic number 1?",
+    "options": ["Helium", "Hydrogen", "Lithium", "Beryllium"],
+    "answer": "Hydrogen"
+  },
+  {
+    "id": 7,
+    "question": "What is the speed of light in vacuum?",
+    "options": ["3 × 10^8 m/s", "3 × 10^6 m/s", "3 × 10^10 m/s", "3 × 10^12 m/s"],
+    "answer": "3 × 10^8 m/s"
+  },
+  {
+    "id": 8,
+    "question": "Which organ pumps blood in the human body?",
+    "options": ["Liver", "Kidney", "Heart", "Lung"],
+    "answer": "Heart"
+  },
+  {
+    "id": 9,
+    "question": "What is the chemical formula for table salt?",
+    "options": ["NaCl", "KCl", "CaCl2", "MgCl2"],
+    "answer": "NaCl"
+  },
+  {
+    "id": 10,
+    "question": "Which force keeps us grounded on Earth?",
+    "options": ["Magnetic force", "Gravitational force", "Electrostatic force", "Nuclear force"],
+    "answer": "Gravitational force"
+  },
+  {
+    "id": 11,
+    "question": "What is the largest organ in the human body?",
+    "options": ["Heart", "Brain", "Liver", "Skin"],
+    "answer": "Skin"
+  },
+  {
+    "id": 12,
+    "question": "Which gas is released during respiration?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "id": 13,
+    "question": "What is the unit of electric current?",
+    "options": ["Volt", "Ampere", "Ohm", "Watt"],
+    "answer": "Ampere"
+  },
+  {
+    "id": 14,
+    "question": "Which vitamin is produced in the skin when exposed to sunlight?",
+    "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+    "answer": "Vitamin D"
+  },
+  {
+    "id": 15,
+    "question": "What is the process by which plants make their own food?",
+    "options": ["Respiration", "Photosynthesis", "Transpiration", "Evaporation"],
+    "answer": "Photosynthesis"
+  },
+  {
+    "id": 16,
+    "question": "Which metal is liquid at room temperature?",
+    "options": ["Iron", "Gold", "Mercury", "Silver"],
+    "answer": "Mercury"
+  },
+  {
+    "id": 17,
+    "question": "What is the chemical symbol for gold?",
+    "options": ["Go", "Gd", "Au", "Ag"],
+    "answer": "Au"
+  },
+  {
+    "id": 18,
+    "question": "Which blood group is known as the universal donor?",
+    "options": ["A", "B", "AB", "O"],
+    "answer": "O"
+  },
+  {
+    "id": 19,
+    "question": "What is the SI unit of force?",
+    "options": ["Joule", "Newton", "Watt", "Pascal"],
+    "answer": "Newton"
+  },
+  {
+    "id": 20,
+    "question": "Which planet is closest to the Sun?",
+    "options": ["Venus", "Earth", "Mercury", "Mars"],
+    "answer": "Mercury"
+  },
+  {
+    "id": 21,
+    "question": "What is the process of conversion of water vapor into liquid?",
+    "options": ["Evaporation", "Condensation", "Sublimation", "Melting"],
+    "answer": "Condensation"
+  },
+  {
+    "id": 22,
+    "question": "Which acid is present in lemon?",
+    "options": ["Sulfuric acid", "Hydrochloric acid", "Citric acid", "Acetic acid"],
+    "answer": "Citric acid"
+  },
+  {
+    "id": 23,
+    "question": "What is the chemical formula for methane?",
+    "options": ["CH4", "C2H6", "C3H8", "C4H10"],
+    "answer": "CH4"
+  },
+  {
+    "id": 24,
+    "question": "Which organelle is known as the control center of the cell?",
+    "options": ["Mitochondria", "Nucleus", "Ribosome", "Golgi body"],
+    "answer": "Nucleus"
+  },
+  {
+    "id": 25,
+    "question": "What is the pH value of pure water?",
+    "options": ["0", "7", "14", "1"],
+    "answer": "7"
+  },
+  {
+    "id": 26,
+    "question": "Which gas is used in balloons to make them float?",
+    "options": ["Oxygen", "Nitrogen", "Helium", "Carbon Dioxide"],
+    "answer": "Helium"
+  },
+  {
+    "id": 27,
+    "question": "What is the unit of energy?",
+    "options": ["Newton", "Joule", "Watt", "Volt"],
+    "answer": "Joule"
+  },
+  {
+    "id": 28,
+    "question": "Which element is essential for the formation of bones and teeth?",
+    "options": ["Iron", "Calcium", "Sodium", "Potassium"],
+    "answer": "Calcium"
+  },
+  {
+    "id": 29,
+    "question": "What is the process by which rocks are broken down into smaller pieces?",
+    "options": ["Erosion", "Weathering", "Deposition", "Sedimentation"],
+    "answer": "Weathering"
+  },
+  {
+    "id": 30,
+    "question": "Which scientist proposed the theory of relativity?",
+    "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Charles Darwin"],
+    "answer": "Albert Einstein"
+  }
+]

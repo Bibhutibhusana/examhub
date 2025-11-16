@@ -1,0 +1,2 @@
+import{k as n,s as a,u as s}from"./chunk.CqLQlKMmpZ4j.js";import{I as c}from"./entry.qTjs2xIljDpc.js";const b=n({__name:"HelpIconButton",props:{label:{default:""},showLabel:{type:Boolean,default:!1}},emits:["click"],setup(e,{emit:t}){const l=t;return(i,o)=>(s(),a(c,{class:"HelpIconButton",icon:"question-circle",iconSize:"tiny",buttonSize:"tiny",label:e.label,showLabel:e.showLabel,onClick:o[0]||(o[0]=u=>l("click"))},null,8,["label","showLabel"]))}});export{b as _};
+//# sourceMappingURL=chunk.DCVgwOXUfgc5.js.map

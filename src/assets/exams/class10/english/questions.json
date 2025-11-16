@@ -1,0 +1,187 @@
+[
+  {
+    "id": 1,
+    "question": "What is the capital of India?",
+    "options": ["Mumbai", "Delhi", "Kolkata", "Chennai"],
+    "answer": "Delhi"
+  },
+  {
+    "id": 2,
+    "question": "5 + 3 = ?",
+    "options": ["5", "6", "8", "9"],
+    "answer": "8"
+  },
+  {
+    "id": 3,
+    "question": "Which gas do plants absorb from the atmosphere?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "id": 4,
+    "question": "Who wrote the national anthem of India?",
+    "options": ["Rabindranath Tagore", "Bankim Chandra", "Gandhi", "Subhash Bose"],
+    "answer": "Rabindranath Tagore"
+  },
+  {
+    "id": 5,
+    "question": "HTML stands for?",
+    "options": [
+      "HyperText Markup Language",
+      "HyperText Markdown Language",
+      "HighText Machine Language",
+      "None of these"
+    ],
+    "answer": "HyperText Markup Language"
+  },
+  {
+    "id": 6,
+    "question": "What is the largest planet in our solar system?",
+    "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+    "answer": "Jupiter"
+  },
+  {
+    "id": 7,
+    "question": "Which animal is known as the 'King of the Jungle'?",
+    "options": ["Tiger", "Lion", "Elephant", "Giraffe"],
+    "answer": "Lion"
+  },
+  {
+    "id": 8,
+    "question": "What is 10 divided by 2?",
+    "options": ["3", "4", "5", "6"],
+    "answer": "5"
+  },
+  {
+    "id": 9,
+    "question": "Which color is made by mixing red and yellow?",
+    "options": ["Green", "Blue", "Orange", "Purple"],
+    "answer": "Orange"
+  },
+  {
+    "id": 10,
+    "question": "Who is the first Prime Minister of India?",
+    "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Sardar Patel", "Rajguru"],
+    "answer": "Jawaharlal Nehru"
+  },
+  {
+    "id": 11,
+    "question": "What is the boiling point of water?",
+    "options": ["90°C", "100°C", "110°C", "120°C"],
+    "answer": "100°C"
+  },
+  {
+    "id": 12,
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+    "answer": "Mars"
+  },
+  {
+    "id": 13,
+    "question": "What is 7 times 8?",
+    "options": ["54", "56", "58", "60"],
+    "answer": "56"
+  },
+  {
+    "id": 14,
+    "question": "Which bird is known for its ability to mimic human speech?",
+    "options": ["Sparrow", "Parrot", "Eagle", "Owl"],
+    "answer": "Parrot"
+  },
+  {
+    "id": 15,
+    "question": "What is the currency of India?",
+    "options": ["Dollar", "Euro", "Rupee", "Pound"],
+    "answer": "Rupee"
+  },
+  {
+    "id": 16,
+    "question": "Which is the smallest state in India?",
+    "options": ["Goa", "Sikkim", "Tripura", "Nagaland"],
+    "answer": "Goa"
+  },
+  {
+    "id": 17,
+    "question": "What is 15 - 7?",
+    "options": ["6", "7", "8", "9"],
+    "answer": "8"
+  },
+  {
+    "id": 18,
+    "question": "Which ocean is the largest?",
+    "options": ["Atlantic", "Indian", "Arctic", "Pacific"],
+    "answer": "Pacific"
+  },
+  {
+    "id": 19,
+    "question": "What is the color of the sky on a clear day?",
+    "options": ["Green", "Blue", "Red", "Yellow"],
+    "answer": "Blue"
+  },
+  {
+    "id": 20,
+    "question": "Who discovered gravity?",
+    "options": ["Albert Einstein", "Isaac Newton", "Galileo", "Thomas Edison"],
+    "answer": "Isaac Newton"
+  },
+  {
+    "id": 21,
+    "question": "What is 9 + 6?",
+    "options": ["14", "15", "16", "17"],
+    "answer": "15"
+  },
+  {
+    "id": 22,
+    "question": "Which animal has a long neck?",
+    "options": ["Lion", "Giraffe", "Tiger", "Elephant"],
+    "answer": "Giraffe"
+  },
+  {
+    "id": 23,
+    "question": "What is the freezing point of water?",
+    "options": ["0°C", "10°C", "20°C", "30°C"],
+    "answer": "0°C"
+  },
+  {
+    "id": 24,
+    "question": "Which is the longest river in the world?",
+    "options": ["Amazon", "Nile", "Yangtze", "Ganges"],
+    "answer": "Nile"
+  },
+  {
+    "id": 25,
+    "question": "What is 4 times 5?",
+    "options": ["18", "19", "20", "21"],
+    "answer": "20"
+  },
+  {
+    "id": 26,
+    "question": "Which fruit is yellow and curved?",
+    "options": ["Apple", "Banana", "Orange", "Grape"],
+    "answer": "Banana"
+  },
+  {
+    "id": 27,
+    "question": "What is the capital of Odisha?",
+    "options": ["Cuttack", "Bhubaneswar", "Puri", "Rourkela"],
+    "answer": "Bhubaneswar"
+  },
+  {
+    "id": 28,
+    "question": "Which day comes after Monday?",
+    "options": ["Sunday", "Tuesday", "Wednesday", "Thursday"],
+    "answer": "Tuesday"
+  },
+  {
+    "id": 29,
+    "question": "What is 12 divided by 3?",
+    "options": ["3", "4", "5", "6"],
+    "answer": "4"
+  },
+  {
+    "id": 30,
+    "question": "Which is the national animal of India?",
+    "options": ["Lion", "Tiger", "Elephant", "Peacock"],
+    "answer": "Tiger"
+  }
+]

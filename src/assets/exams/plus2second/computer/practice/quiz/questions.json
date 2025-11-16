@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "question": "[Quiz] What does SQL stand for?",
+    "options": [
+      "Structured Query Language",
+      "Simple Query Language",
+      "Standard Query Language",
+      "System Query Language"
+    ],
+    "answer": "Structured Query Language"
+  },
+  {
+    "id": 2,
+    "question": "[Quiz] What is an algorithm?",
+    "options": [
+      "A programming language",
+      "A step-by-step procedure",
+      "A computer hardware",
+      "A database"
+    ],
+    "answer": "A step-by-step procedure"
+  },
+  {
+    "id": 3,
+    "question": "[Quiz] What does SQL stand for?",
+    "options": [
+      "Structured Query Language",
+      "Simple Query Language",
+      "Standard Query Language",
+      "System Query Language"
+    ],
+    "answer": "Structured Query Language"
+  },
+  {
+    "id": 4,
+    "question": "[Quiz] What is an algorithm?",
+    "options": [
+      "A programming language",
+      "A step-by-step procedure",
+      "A computer hardware",
+      "A database"
+    ],
+    "answer": "A step-by-step procedure"
+  },
+  {
+    "id": 5,
+    "question": "[Quiz] What does SQL stand for?",
+    "options": [
+      "Structured Query Language",
+      "Simple Query Language",
+      "Standard Query Language",
+      "System Query Language"
+    ],
+    "answer": "Structured Query Language"
+  },
+  {
+    "id": 6,
+    "question": "[Quiz] What is an algorithm?",
+    "options": [
+      "A programming language",
+      "A step-by-step procedure",
+      "A computer hardware",
+      "A database"
+    ],
+    "answer": "A step-by-step procedure"
+  },
+  {
+    "id": 7,
+    "question": "[Quiz] What does SQL stand for?",
+    "options": [
+      "Structured Query Language",
+      "Simple Query Language",
+      "Standard Query Language",
+      "System Query Language"
+    ],
+    "answer": "Structured Query Language"
+  },
+  {
+    "id": 8,
+    "question": "[Quiz] What is an algorithm?",
+    "options": [
+      "A programming language",
+      "A step-by-step procedure",
+      "A computer hardware",
+      "A database"
+    ],
+    "answer": "A step-by-step procedure"
+  },
+  {
+    "id": 9,
+    "question": "[Quiz] What does SQL stand for?",
+    "options": [
+      "Structured Query Language",
+      "Simple Query Language",
+      "Standard Query Language",
+      "System Query Language"
+    ],
+    "answer": "Structured Query Language"
+  },
+  {
+    "id": 10,
+    "question": "[Quiz] What is an algorithm?",
+    "options": [
+      "A programming language",
+      "A step-by-step procedure",
+      "A computer hardware",
+      "A database"
+    ],
+    "answer": "A step-by-step procedure"
+  },
+  {
+    "id": 11,
+    "question": "[Quiz] What does SQL stand for?",
+    "options": [
+      "Structured Query Language",
+      "Simple Query Language",
+      "Standard Query Language",
+      "System Query Language"
+    ],
+    "answer": "Structured Query Language"
+  },
+  {
+    "id": 12,
+    "question": "[Quiz] What is an algorithm?",
+    "options": [
+      "A programming language",
+      "A step-by-step procedure",
+      "A computer hardware",
+      "A database"
+    ],
+    "answer": "A step-by-step procedure"
+  },
+  {
+    "id": 13,
+    "question": "[Quiz] What does SQL stand for?",
+    "options": [
+      "Structured Query Language",
+      "Simple Query Language",
+      "Standard Query Language",
+      "System Query Language"
+    ],
+    "answer": "Structured Query Language"
+  },
+  {
+    "id": 14,
+    "question": "[Quiz] What is an algorithm?",
+    "options": [
+      "A programming language",
+      "A step-by-step procedure",
+      "A computer hardware",
+      "A database"
+    ],
+    "answer": "A step-by-step procedure"
+  },
+  {
+    "id": 15,
+    "question": "[Quiz] What does SQL stand for?",
+    "options": [
+      "Structured Query Language",
+      "Simple Query Language",
+      "Standard Query Language",
+      "System Query Language"
+    ],
+    "answer": "Structured Query Language"
+  }
+]

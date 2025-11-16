@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "question": "What do plants need to make food?",
+    "options": ["Water", "Sunlight", "Air", "All of these"],
+    "answer": "All of these"
+  },
+  {
+    "id": 2,
+    "question": "Which gas do we breathe out?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "id": 3,
+    "question": "What is the color of blood?",
+    "options": ["Blue", "Green", "Red", "Yellow"],
+    "answer": "Red"
+  },
+  {
+    "id": 4,
+    "question": "Which animal has a long neck?",
+    "options": ["Lion", "Giraffe", "Tiger", "Elephant"],
+    "answer": "Giraffe"
+  },
+  {
+    "id": 5,
+    "question": "What do caterpillars turn into?",
+    "options": ["Butterflies", "Bees", "Birds", "Fish"],
+    "answer": "Butterflies"
+  },
+  {
+    "id": 6,
+    "question": "Which part of the plant is under the ground?",
+    "options": ["Leaves", "Stem", "Roots", "Flowers"],
+    "answer": "Roots"
+  },
+  {
+    "id": 7,
+    "question": "What do we use to see our reflection?",
+    "options": ["Window", "Mirror", "Door", "Wall"],
+    "answer": "Mirror"
+  },
+  {
+    "id": 8,
+    "question": "Which is bigger - Sun or Earth?",
+    "options": ["Earth", "Sun", "Both same", "None"],
+    "answer": "Sun"
+  },
+  {
+    "id": 9,
+    "question": "What do bees make?",
+    "options": ["Milk", "Honey", "Bread", "Cheese"],
+    "answer": "Honey"
+  },
+  {
+    "id": 10,
+    "question": "Which animal lives in water?",
+    "options": ["Cow", "Dog", "Fish", "Cat"],
+    "answer": "Fish"
+  },
+  {
+    "id": 11,
+    "question": "What is the color of the sky?",
+    "options": ["Green", "Blue", "Red", "Yellow"],
+    "answer": "Blue"
+  },
+  {
+    "id": 12,
+    "question": "Which fruit grows on trees?",
+    "options": ["Carrot", "Potato", "Apple", "Onion"],
+    "answer": "Apple"
+  },
+  {
+    "id": 13,
+    "question": "What do we drink to stay healthy?",
+    "options": ["Petrol", "Water", "Oil", "Paint"],
+    "answer": "Water"
+  },
+  {
+    "id": 14,
+    "question": "Which animal has stripes?",
+    "options": ["Lion", "Tiger", "Elephant", "Giraffe"],
+    "answer": "Tiger"
+  },
+  {
+    "id": 15,
+    "question": "What do we use to write?",
+    "options": ["Spoon", "Pen", "Fork", "Knife"],
+    "answer": "Pen"
+  },
+  {
+    "id": 16,
+    "question": "Which is the largest animal?",
+    "options": ["Elephant", "Whale", "Lion", "Tiger"],
+    "answer": "Whale"
+  },
+  {
+    "id": 17,
+    "question": "What do leaves do in sunlight?",
+    "options": ["Sleep", "Make food", "Dance", "Sing"],
+    "answer": "Make food"
+  },
+  {
+    "id": 18,
+    "question": "Which bird can fly high?",
+    "options": ["Penguin", "Ostrich", "Eagle", "Kiwi"],
+    "answer": "Eagle"
+  },
+  {
+    "id": 19,
+    "question": "What is hot - Sun or Moon?",
+    "options": ["Moon", "Sun", "Both same", "None"],
+    "answer": "Sun"
+  },
+  {
+    "id": 20,
+    "question": "Which animal has a trunk?",
+    "options": ["Lion", "Tiger", "Elephant", "Giraffe"],
+    "answer": "Elephant"
+  },
+  {
+    "id": 21,
+    "question": "What do we wear on our feet?",
+    "options": ["Hat", "Shoes", "Gloves", "Belt"],
+    "answer": "Shoes"
+  },
+  {
+    "id": 22,
+    "question": "Which planet do we live on?",
+    "options": ["Mars", "Venus", "Earth", "Jupiter"],
+    "answer": "Earth"
+  },
+  {
+    "id": 23,
+    "question": "What do spiders make?",
+    "options": ["Honey", "Web", "Nest", "Hive"],
+    "answer": "Web"
+  },
+  {
+    "id": 24,
+    "question": "Which is faster - Car or Bicycle?",
+    "options": ["Bicycle", "Car", "Both same", "None"],
+    "answer": "Car"
+  },
+  {
+    "id": 25,
+    "question": "What do we use to cut paper?",
+    "options": ["Pen", "Scissors", "Ruler", "Eraser"],
+    "answer": "Scissors"
+  },
+  {
+    "id": 26,
+    "question": "Which animal has wings?",
+    "options": ["Cow", "Dog", "Bird", "Cat"],
+    "answer": "Bird"
+  },
+  {
+    "id": 27,
+    "question": "What is the color of grass?",
+    "options": ["Red", "Blue", "Green", "Yellow"],
+    "answer": "Green"
+  },
+  {
+    "id": 28,
+    "question": "Which fruit is yellow?",
+    "options": ["Apple", "Banana", "Orange", "Grape"],
+    "answer": "Banana"
+  },
+  {
+    "id": 29,
+    "question": "What do we use to see far things?",
+    "options": ["Mirror", "Telescope", "Window", "Door"],
+    "answer": "Telescope"
+  },
+  {
+    "id": 30,
+    "question": "Which animal can swim?",
+    "options": ["Cow", "Dog", "Fish", "Cat"],
+    "answer": "Fish"
+  }
+]

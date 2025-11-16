@@ -1,0 +1,8 @@
+.exam-ui { font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; max-width: 900px; margin: 12px auto; padding: 12px; }
+.exam-ui h2, .exam-ui h3 { margin: 8px 0; }
+.exam-card { border: 1px solid #e6e6e6; padding: 12px; margin: 8px 0; border-radius: 6px; }
+.exam-list { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+.precheck { background: #fff9; padding: 16px; border-radius: 8px; }
+.precheck-actions { margin-top: 12px; }
+.exam-create label { display: block; margin: 8px 0; }
+.exam-create input[type="text"], .exam-create input[type="number"] { width: 100%; padding: 8px; }

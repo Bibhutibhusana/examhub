@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "question": "Who was the first Prime Minister of India?",
+    "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Sardar Patel", "Rajguru"],
+    "answer": "Jawaharlal Nehru"
+  },
+  {
+    "id": 2,
+    "question": "Which river is considered the holiest river in India?",
+    "options": ["Yamuna", "Brahmaputra", "Ganges", "Godavari"],
+    "answer": "Ganges"
+  },
+  {
+    "id": 3,
+    "question": "What is the capital of Madhya Pradesh?",
+    "options": ["Indore", "Bhopal", "Jabalpur", "Gwalior"],
+    "answer": "Bhopal"
+  },
+  {
+    "id": 4,
+    "question": "Which festival is known as the festival of colors?",
+    "options": ["Diwali", "Holi", "Eid", "Christmas"],
+    "answer": "Holi"
+  },
+  {
+    "id": 5,
+    "question": "What is the currency of India?",
+    "options": ["Dollar", "Euro", "Rupee", "Pound"],
+    "answer": "Rupee"
+  },
+  {
+    "id": 6,
+    "question": "Which is the largest state in India by area?",
+    "options": ["Uttar Pradesh", "Maharashtra", "Rajasthan", "Madhya Pradesh"],
+    "answer": "Rajasthan"
+  },
+  {
+    "id": 7,
+    "question": "What is the capital of Andhra Pradesh?",
+    "options": ["Hyderabad", "Visakhapatnam", "Vijayawada", "Tirupati"],
+    "answer": "Hyderabad"
+  },
+  {
+    "id": 8,
+    "question": "Which day is celebrated as Independence Day?",
+    "options": ["15 Aug", "26 Jan", "2 Oct", "14 Nov"],
+    "answer": "15 Aug"
+  },
+  {
+    "id": 9,
+    "question": "What is the capital of Bihar?",
+    "options": ["Patna", "Gaya", "Muzaffarpur", "Bhagalpur"],
+    "answer": "Patna"
+  },
+  {
+    "id": 10,
+    "question": "Which river originates from the Himalayas?",
+    "options": ["Ganges", "Godavari", "Krishna", "Cauvery"],
+    "answer": "Ganges"
+  },
+  {
+    "id": 11,
+    "question": "What is the capital of Kerala?",
+    "options": ["Kochi", "Thiruvananthapuram", "Kozhikode", "Thrissur"],
+    "answer": "Thiruvananthapuram"
+  },
+  {
+    "id": 12,
+    "question": "Which state is known as the 'Land of Five Rivers'?",
+    "options": ["Punjab", "Haryana", "Uttar Pradesh", "Bihar"],
+    "answer": "Punjab"
+  },
+  {
+    "id": 13,
+    "question": "What is the capital of Karnataka?",
+    "options": ["Mysore", "Bangalore", "Mangalore", "Hubli"],
+    "answer": "Bangalore"
+  },
+  {
+    "id": 14,
+    "question": "Which festival is celebrated with lights?",
+    "options": ["Holi", "Diwali", "Eid", "Christmas"],
+    "answer": "Diwali"
+  },
+  {
+    "id": 15,
+    "question": "What is the capital of Tamil Nadu?",
+    "options": ["Chennai", "Madurai", "Coimbatore", "Trichy"],
+    "answer": "Chennai"
+  },
+  {
+    "id": 16,
+    "question": "Which is the longest river in India?",
+    "options": ["Yamuna", "Brahmaputra", "Ganges", "Godavari"],
+    "answer": "Ganges"
+  },
+  {
+    "id": 17,
+    "question": "What is the capital of West Bengal?",
+    "options": ["Kolkata", "Darjeeling", "Siliguri", "Howrah"],
+    "answer": "Kolkata"
+  },
+  {
+    "id": 18,
+    "question": "Which day is celebrated as Republic Day?",
+    "options": ["15 Aug", "26 Jan", "2 Oct", "14 Nov"],
+    "answer": "26 Jan"
+  },
+  {
+    "id": 19,
+    "question": "What is the capital of Gujarat?",
+    "options": ["Surat", "Ahmedabad", "Vadodara", "Rajkot"],
+    "answer": "Ahmedabad"
+  },
+  {
+    "id": 20,
+    "question": "Which river flows through Delhi?",
+    "options": ["Ganges", "Yamuna", "Brahmaputra", "Godavari"],
+    "answer": "Yamuna"
+  },
+  {
+    "id": 21,
+    "question": "What is the capital of Rajasthan?",
+    "options": ["Jaipur", "Jodhpur", "Udaipur", "Ajmer"],
+    "answer": "Jaipur"
+  },
+  {
+    "id": 22,
+    "question": "Which state is known for tea gardens?",
+    "options": ["Punjab", "Assam", "Gujarat", "Rajasthan"],
+    "answer": "Assam"
+  },
+  {
+    "id": 23,
+    "question": "What is the capital of Odisha?",
+    "options": ["Cuttack", "Bhubaneswar", "Puri", "Rourkela"],
+    "answer": "Bhubaneswar"
+  },
+  {
+    "id": 24,
+    "question": "Which is the largest desert in India?",
+    "options": ["Sahara", "Thar", "Gobi", "Kalahari"],
+    "answer": "Thar"
+  },
+  {
+    "id": 25,
+    "question": "What is the capital of Maharashtra?",
+    "options": ["Pune", "Nagpur", "Mumbai", "Nashik"],
+    "answer": "Mumbai"
+  },
+  {
+    "id": 26,
+    "question": "Which state is known as the 'Spice Garden of India'?",
+    "options": ["Tamil Nadu", "Kerala", "Karnataka", "Andhra Pradesh"],
+    "answer": "Kerala"
+  },
+  {
+    "id": 27,
+    "question": "What is the capital of Uttar Pradesh?",
+    "options": ["Lucknow", "Kanpur", "Varanasi", "Agra"],
+    "answer": "Lucknow"
+  },
+  {
+    "id": 28,
+    "question": "Which river is called the 'Dakshin Ganga'?",
+    "options": ["Godavari", "Krishna", "Cauvery", "Mahanadi"],
+    "answer": "Godavari"
+  },
+  {
+    "id": 29,
+    "question": "What is the capital of Haryana?",
+    "options": ["Chandigarh", "Gurgaon", "Faridabad", "Hisar"],
+    "answer": "Chandigarh"
+  },
+  {
+    "id": 30,
+    "question": "Which is the highest mountain peak in India?",
+    "options": ["Everest", "Kanchenjunga", "Nanda Devi", "K2"],
+    "answer": "Kanchenjunga"
+  }
+]

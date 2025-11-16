@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "question": "What is the plural of 'child'?",
+    "options": ["Childs", "Childen", "Children", "Childes"],
+    "answer": "Children"
+  },
+  {
+    "id": 2,
+    "question": "Which word is a synonym of 'happy'?",
+    "options": ["Sad", "Joyful", "Angry", "Tired"],
+    "answer": "Joyful"
+  },
+  {
+    "id": 3,
+    "question": "What is the opposite of 'brave'?",
+    "options": ["Cowardly", "Strong", "Fast", "Tall"],
+    "answer": "Cowardly"
+  },
+  {
+    "id": 4,
+    "question": "Which word means 'a large body of water'?",
+    "options": ["River", "Lake", "Ocean", "Pond"],
+    "answer": "Ocean"
+  },
+  {
+    "id": 5,
+    "question": "What is the past tense of 'go'?",
+    "options": ["Goed", "Went", "Going", "Gone"],
+    "answer": "Went"
+  },
+  {
+    "id": 6,
+    "question": "Which word is a noun?",
+    "options": ["Run", "Beautiful", "Quickly", "Table"],
+    "answer": "Table"
+  },
+  {
+    "id": 7,
+    "question": "What is the opposite of 'hot'?",
+    "options": ["Cold", "Warm", "Wet", "Dry"],
+    "answer": "Cold"
+  },
+  {
+    "id": 8,
+    "question": "Which word means 'to make something clean'?",
+    "options": ["Dirty", "Clean", "Wash", "Break"],
+    "answer": "Wash"
+  },
+  {
+    "id": 9,
+    "question": "What is the plural of 'mouse'?",
+    "options": ["Mouses", "Mice", "Mices", "Mouse"],
+    "answer": "Mice"
+  },
+  {
+    "id": 10,
+    "question": "Which word is an adjective?",
+    "options": ["Run", "Beautiful", "Quickly", "Table"],
+    "answer": "Beautiful"
+  },
+  {
+    "id": 11,
+    "question": "What is the opposite of 'big'?",
+    "options": ["Small", "Large", "Tall", "Wide"],
+    "answer": "Small"
+  },
+  {
+    "id": 12,
+    "question": "Which word means 'a person who flies an airplane'?",
+    "options": ["Driver", "Pilot", "Sailor", "Chef"],
+    "answer": "Pilot"
+  },
+  {
+    "id": 13,
+    "question": "What is the past tense of 'eat'?",
+    "options": ["Eated", "Ate", "Eating", "Eaten"],
+    "answer": "Ate"
+  },
+  {
+    "id": 14,
+    "question": "Which word is a verb?",
+    "options": ["Table", "Beautiful", "Run", "Quickly"],
+    "answer": "Run"
+  },
+  {
+    "id": 15,
+    "question": "What is the opposite of 'fast'?",
+    "options": ["Slow", "Quick", "Speedy", "Rapid"],
+    "answer": "Slow"
+  },
+  {
+    "id": 16,
+    "question": "Which word means 'full of light'?",
+    "options": ["Dark", "Bright", "Dim", "Shadow"],
+    "answer": "Bright"
+  },
+  {
+    "id": 17,
+    "question": "What is the plural of 'tooth'?",
+    "options": ["Tooths", "Teeth", "Toothes", "Tooth"],
+    "answer": "Teeth"
+  },
+  {
+    "id": 18,
+    "question": "Which word is an adverb?",
+    "options": ["Table", "Beautiful", "Run", "Quickly"],
+    "answer": "Quickly"
+  },
+  {
+    "id": 19,
+    "question": "What is the opposite of 'wet'?",
+    "options": ["Dry", "Hot", "Cold", "Warm"],
+    "answer": "Dry"
+  },
+  {
+    "id": 20,
+    "question": "Which word means 'a place where books are kept'?",
+    "options": ["School", "Library", "Park", "Shop"],
+    "answer": "Library"
+  },
+  {
+    "id": 21,
+    "question": "What is the past tense of 'see'?",
+    "options": ["Seed", "Saw", "Seeing", "Seen"],
+    "answer": "Saw"
+  },
+  {
+    "id": 22,
+    "question": "Which word is a pronoun?",
+    "options": ["Table", "Beautiful", "Run", "He"],
+    "answer": "He"
+  },
+  {
+    "id": 23,
+    "question": "What is the opposite of 'old'?",
+    "options": ["New", "Big", "Small", "Tall"],
+    "answer": "New"
+  },
+  {
+    "id": 24,
+    "question": "Which word means 'to move quickly'?",
+    "options": ["Walk", "Run", "Sit", "Sleep"],
+    "answer": "Run"
+  },
+  {
+    "id": 25,
+    "question": "What is the plural of 'man'?",
+    "options": ["Mans", "Men", "Menes", "Man"],
+    "answer": "Men"
+  },
+  {
+    "id": 26,
+    "question": "Which word is a preposition?",
+    "options": ["Table", "Beautiful", "Run", "On"],
+    "answer": "On"
+  },
+  {
+    "id": 27,
+    "question": "What is the opposite of 'full'?",
+    "options": ["Empty", "Half", "Big", "Small"],
+    "answer": "Empty"
+  },
+  {
+    "id": 28,
+    "question": "Which word means 'a large area of land covered with trees'?",
+    "options": ["Desert", "Forest", "Mountain", "River"],
+    "answer": "Forest"
+  },
+  {
+    "id": 29,
+    "question": "What is the past tense of 'drink'?",
+    "options": ["Drinked", "Drank", "Drinking", "Drunk"],
+    "answer": "Drank"
+  },
+  {
+    "id": 30,
+    "question": "Which word is a conjunction?",
+    "options": ["Table", "Beautiful", "Run", "And"],
+    "answer": "And"
+  }
+]

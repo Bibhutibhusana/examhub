@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "question": "What do plants need to grow?",
+    "options": ["Water only", "Sunlight only", "Soil only", "Water, sunlight and soil"],
+    "answer": "Water, sunlight and soil"
+  },
+  {
+    "id": 2,
+    "question": "Which part of the plant makes food?",
+    "options": ["Roots", "Stem", "Leaves", "Flowers"],
+    "answer": "Leaves"
+  },
+  {
+    "id": 3,
+    "question": "What is the boiling point of water?",
+    "options": ["90°C", "100°C", "110°C", "120°C"],
+    "answer": "100°C"
+  },
+  {
+    "id": 4,
+    "question": "Which animal has a long trunk?",
+    "options": ["Lion", "Tiger", "Elephant", "Giraffe"],
+    "answer": "Elephant"
+  },
+  {
+    "id": 5,
+    "question": "What do bees collect from flowers?",
+    "options": ["Water", "Honey", "Milk", "Juice"],
+    "answer": "Honey"
+  },
+  {
+    "id": 6,
+    "question": "Which gas do we breathe in?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Oxygen"
+  },
+  {
+    "id": 7,
+    "question": "What is the color of blood?",
+    "options": ["Blue", "Green", "Red", "Yellow"],
+    "answer": "Red"
+  },
+  {
+    "id": 8,
+    "question": "Which bird can fly backwards?",
+    "options": ["Sparrow", "Eagle", "Hummingbird", "Crow"],
+    "answer": "Hummingbird"
+  },
+  {
+    "id": 9,
+    "question": "What do caterpillars become?",
+    "options": ["Flies", "Butterflies", "Bees", "Mosquitoes"],
+    "answer": "Butterflies"
+  },
+  {
+    "id": 10,
+    "question": "Which is the largest planet?",
+    "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+    "answer": "Jupiter"
+  },
+  {
+    "id": 11,
+    "question": "What do we use to see ourselves?",
+    "options": ["Window", "Door", "Mirror", "Wall"],
+    "answer": "Mirror"
+  },
+  {
+    "id": 12,
+    "question": "Which animal has a shell?",
+    "options": ["Fish", "Turtle", "Dog", "Cat"],
+    "answer": "Turtle"
+  },
+  {
+    "id": 13,
+    "question": "What is the freezing point of water?",
+    "options": ["0°C", "10°C", "20°C", "30°C"],
+    "answer": "0°C"
+  },
+  {
+    "id": 14,
+    "question": "Which part of the body pumps blood?",
+    "options": ["Brain", "Heart", "Lungs", "Stomach"],
+    "answer": "Heart"
+  },
+  {
+    "id": 15,
+    "question": "What do spiders make?",
+    "options": ["Nests", "Webs", "Hives", "Cocoons"],
+    "answer": "Webs"
+  },
+  {
+    "id": 16,
+    "question": "Which animal can change color?",
+    "options": ["Lion", "Chameleon", "Tiger", "Elephant"],
+    "answer": "Chameleon"
+  },
+  {
+    "id": 17,
+    "question": "What do we call baby dogs?",
+    "options": ["Kittens", "Puppies", "Cubs", "Foals"],
+    "answer": "Puppies"
+  },
+  {
+    "id": 18,
+    "question": "Which is the nearest star to Earth?",
+    "options": ["Sirius", "Vega", "Sun", "Moon"],
+    "answer": "Sun"
+  },
+  {
+    "id": 19,
+    "question": "What do frogs eat?",
+    "options": ["Grass", "Insects", "Fish", "Meat"],
+    "answer": "Insects"
+  },
+  {
+    "id": 20,
+    "question": "Which sense organ helps us taste?",
+    "options": ["Eyes", "Ears", "Tongue", "Nose"],
+    "answer": "Tongue"
+  },
+  {
+    "id": 21,
+    "question": "What do we call a group of fish?",
+    "options": ["Herd", "Flock", "School", "Pack"],
+    "answer": "School"
+  },
+  {
+    "id": 22,
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+    "answer": "Mars"
+  },
+  {
+    "id": 23,
+    "question": "What do owls do at night?",
+    "options": ["Sleep", "Hunt", "Dance", "Sing"],
+    "answer": "Hunt"
+  },
+  {
+    "id": 24,
+    "question": "Which animal has the longest neck?",
+    "options": ["Lion", "Giraffe", "Elephant", "Horse"],
+    "answer": "Giraffe"
+  },
+  {
+    "id": 25,
+    "question": "What do we call water in solid form?",
+    "options": ["Steam", "Ice", "Rain", "Snow"],
+    "answer": "Ice"
+  },
+  {
+    "id": 26,
+    "question": "Which bird cannot fly?",
+    "options": ["Sparrow", "Eagle", "Ostrich", "Crow"],
+    "answer": "Ostrich"
+  },
+  {
+    "id": 27,
+    "question": "What do bees make honey from?",
+    "options": ["Water", "Nectar", "Leaves", "Soil"],
+    "answer": "Nectar"
+  },
+  {
+    "id": 28,
+    "question": "Which is the hottest planet?",
+    "options": ["Earth", "Mars", "Venus", "Mercury"],
+    "answer": "Venus"
+  },
+  {
+    "id": 29,
+    "question": "What do we call a baby frog?",
+    "options": ["Tadpole", "Kitten", "Puppy", "Calf"],
+    "answer": "Tadpole"
+  },
+  {
+    "id": 30,
+    "question": "Which animal has stripes and is orange?",
+    "options": ["Lion", "Tiger", "Zebra", "Leopard"],
+    "answer": "Tiger"
+  }
+]

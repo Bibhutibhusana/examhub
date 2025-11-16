@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "question": "What is the process by which plants make their own food?",
+    "options": ["Photosynthesis", "Respiration", "Transpiration", "Evaporation"],
+    "answer": "Photosynthesis"
+  },
+  {
+    "id": 2,
+    "question": "Which organ pumps blood in the human body?",
+    "options": ["Brain", "Lungs", "Heart", "Liver"],
+    "answer": "Heart"
+  },
+  {
+    "id": 3,
+    "question": "What is the chemical formula for water?",
+    "options": ["H2O", "CO2", "O2", "N2"],
+    "answer": "H2O"
+  },
+  {
+    "id": 4,
+    "question": "Which planet is known as the 'Blue Planet'?",
+    "options": ["Mars", "Venus", "Earth", "Jupiter"],
+    "answer": "Earth"
+  },
+  {
+    "id": 5,
+    "question": "What type of blood cells help fight infections?",
+    "options": ["Red blood cells", "White blood cells", "Platelets", "Plasma"],
+    "answer": "White blood cells"
+  },
+  {
+    "id": 6,
+    "question": "Which gas do plants take in during photosynthesis?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "id": 7,
+    "question": "What is the largest organ in the human body?",
+    "options": ["Heart", "Brain", "Skin", "Liver"],
+    "answer": "Skin"
+  },
+  {
+    "id": 8,
+    "question": "Which force pulls objects towards the Earth?",
+    "options": ["Magnetic force", "Gravitational force", "Electric force", "Frictional force"],
+    "answer": "Gravitational force"
+  },
+  {
+    "id": 9,
+    "question": "What is the process of water changing into vapor called?",
+    "options": ["Condensation", "Evaporation", "Freezing", "Melting"],
+    "answer": "Evaporation"
+  },
+  {
+    "id": 10,
+    "question": "Which vitamin is produced when skin is exposed to sunlight?",
+    "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+    "answer": "Vitamin D"
+  },
+  {
+    "id": 11,
+    "question": "What is the unit of measurement for force?",
+    "options": ["Meter", "Kilogram", "Newton", "Second"],
+    "answer": "Newton"
+  },
+  {
+    "id": 12,
+    "question": "Which part of the plant absorbs water from the soil?",
+    "options": ["Leaves", "Stem", "Roots", "Flowers"],
+    "answer": "Roots"
+  },
+  {
+    "id": 13,
+    "question": "What is the boiling point of water in Celsius?",
+    "options": ["0°C", "50°C", "100°C", "150°C"],
+    "answer": "100°C"
+  },
+  {
+    "id": 14,
+    "question": "Which type of mirror is used in vehicles to see behind?",
+    "options": ["Plane mirror", "Convex mirror", "Concave mirror", "Spherical mirror"],
+    "answer": "Convex mirror"
+  },
+  {
+    "id": 15,
+    "question": "What is the main function of the respiratory system?",
+    "options": ["Digestion", "Circulation", "Respiration", "Excretion"],
+    "answer": "Respiration"
+  },
+  {
+    "id": 16,
+    "question": "Which metal is liquid at room temperature?",
+    "options": ["Iron", "Copper", "Mercury", "Gold"],
+    "answer": "Mercury"
+  },
+  {
+    "id": 17,
+    "question": "What is the process of conversion of water vapor into liquid called?",
+    "options": ["Evaporation", "Condensation", "Sublimation", "Melting"],
+    "answer": "Condensation"
+  },
+  {
+    "id": 18,
+    "question": "Which sense organ helps us to hear sounds?",
+    "options": ["Eyes", "Ears", "Nose", "Tongue"],
+    "answer": "Ears"
+  },
+  {
+    "id": 19,
+    "question": "What is the chemical name for table salt?",
+    "options": ["Sodium chloride", "Calcium carbonate", "Magnesium sulfate", "Potassium nitrate"],
+    "answer": "Sodium chloride"
+  },
+  {
+    "id": 20,
+    "question": "Which planet has rings around it?",
+    "options": ["Earth", "Mars", "Saturn", "Venus"],
+    "answer": "Saturn"
+  },
+  {
+    "id": 21,
+    "question": "What is the function of chlorophyll in plants?",
+    "options": ["Absorb water", "Make food", "Store food", "Transport water"],
+    "answer": "Make food"
+  },
+  {
+    "id": 22,
+    "question": "Which type of energy is stored in a battery?",
+    "options": ["Solar energy", "Chemical energy", "Kinetic energy", "Thermal energy"],
+    "answer": "Chemical energy"
+  },
+  {
+    "id": 23,
+    "question": "What is the freezing point of water in Celsius?",
+    "options": ["0°C", "32°C", "100°C", "212°C"],
+    "answer": "0°C"
+  },
+  {
+    "id": 24,
+    "question": "Which gas is essential for burning?",
+    "options": ["Nitrogen", "Oxygen", "Carbon dioxide", "Helium"],
+    "answer": "Oxygen"
+  },
+  {
+    "id": 25,
+    "question": "What is the study of stars and planets called?",
+    "options": ["Biology", "Chemistry", "Physics", "Astronomy"],
+    "answer": "Astronomy"
+  },
+  {
+    "id": 26,
+    "question": "Which part of the eye controls the amount of light entering?",
+    "options": ["Cornea", "Iris", "Lens", "Retina"],
+    "answer": "Iris"
+  },
+  {
+    "id": 27,
+    "question": "What is the process by which rocks are broken down into smaller pieces?",
+    "options": ["Erosion", "Weathering", "Deposition", "Sedimentation"],
+    "answer": "Weathering"
+  },
+  {
+    "id": 28,
+    "question": "Which vitamin is found in citrus fruits?",
+    "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+    "answer": "Vitamin C"
+  },
+  {
+    "id": 29,
+    "question": "What is the SI unit of length?",
+    "options": ["Gram", "Liter", "Meter", "Second"],
+    "answer": "Meter"
+  },
+  {
+    "id": 30,
+    "question": "Which type of soil is best for growing plants?",
+    "options": ["Sandy soil", "Clay soil", "Loamy soil", "Rocky soil"],
+    "answer": "Loamy soil"
+  }
+]

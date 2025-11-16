@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "question": "[Mid-term] What is the derivative of sin(x)?",
+    "options": [
+      "cos(x)",
+      "-sin(x)",
+      "tan(x)",
+      "-cos(x)"
+    ],
+    "answer": "cos(x)"
+  },
+  {
+    "id": 2,
+    "question": "[Mid-term] What is the value of ∫x² dx?",
+    "options": [
+      "x³/3 + C",
+      "x³/2 + C",
+      "x²/2 + C",
+      "x/2 + C"
+    ],
+    "answer": "x³/3 + C"
+  },
+  {
+    "id": 3,
+    "question": "[Mid-term] What is the derivative of sin(x)?",
+    "options": [
+      "cos(x)",
+      "-sin(x)",
+      "tan(x)",
+      "-cos(x)"
+    ],
+    "answer": "cos(x)"
+  },
+  {
+    "id": 4,
+    "question": "[Mid-term] What is the value of ∫x² dx?",
+    "options": [
+      "x³/3 + C",
+      "x³/2 + C",
+      "x²/2 + C",
+      "x/2 + C"
+    ],
+    "answer": "x³/3 + C"
+  },
+  {
+    "id": 5,
+    "question": "[Mid-term] What is the derivative of sin(x)?",
+    "options": [
+      "cos(x)",
+      "-sin(x)",
+      "tan(x)",
+      "-cos(x)"
+    ],
+    "answer": "cos(x)"
+  },
+  {
+    "id": 6,
+    "question": "[Mid-term] What is the value of ∫x² dx?",
+    "options": [
+      "x³/3 + C",
+      "x³/2 + C",
+      "x²/2 + C",
+      "x/2 + C"
+    ],
+    "answer": "x³/3 + C"
+  },
+  {
+    "id": 7,
+    "question": "[Mid-term] What is the derivative of sin(x)?",
+    "options": [
+      "cos(x)",
+      "-sin(x)",
+      "tan(x)",
+      "-cos(x)"
+    ],
+    "answer": "cos(x)"
+  },
+  {
+    "id": 8,
+    "question": "[Mid-term] What is the value of ∫x² dx?",
+    "options": [
+      "x³/3 + C",
+      "x³/2 + C",
+      "x²/2 + C",
+      "x/2 + C"
+    ],
+    "answer": "x³/3 + C"
+  },
+  {
+    "id": 9,
+    "question": "[Mid-term] What is the derivative of sin(x)?",
+    "options": [
+      "cos(x)",
+      "-sin(x)",
+      "tan(x)",
+      "-cos(x)"
+    ],
+    "answer": "cos(x)"
+  },
+  {
+    "id": 10,
+    "question": "[Mid-term] What is the value of ∫x² dx?",
+    "options": [
+      "x³/3 + C",
+      "x³/2 + C",
+      "x²/2 + C",
+      "x/2 + C"
+    ],
+    "answer": "x³/3 + C"
+  },
+  {
+    "id": 11,
+    "question": "[Mid-term] What is the derivative of sin(x)?",
+    "options": [
+      "cos(x)",
+      "-sin(x)",
+      "tan(x)",
+      "-cos(x)"
+    ],
+    "answer": "cos(x)"
+  },
+  {
+    "id": 12,
+    "question": "[Mid-term] What is the value of ∫x² dx?",
+    "options": [
+      "x³/3 + C",
+      "x³/2 + C",
+      "x²/2 + C",
+      "x/2 + C"
+    ],
+    "answer": "x³/3 + C"
+  },
+  {
+    "id": 13,
+    "question": "[Mid-term] What is the derivative of sin(x)?",
+    "options": [
+      "cos(x)",
+      "-sin(x)",
+      "tan(x)",
+      "-cos(x)"
+    ],
+    "answer": "cos(x)"
+  },
+  {
+    "id": 14,
+    "question": "[Mid-term] What is the value of ∫x² dx?",
+    "options": [
+      "x³/3 + C",
+      "x³/2 + C",
+      "x²/2 + C",
+      "x/2 + C"
+    ],
+    "answer": "x³/3 + C"
+  },
+  {
+    "id": 15,
+    "question": "[Mid-term] What is the derivative of sin(x)?",
+    "options": [
+      "cos(x)",
+      "-sin(x)",
+      "tan(x)",
+      "-cos(x)"
+    ],
+    "answer": "cos(x)"
+  }
+]

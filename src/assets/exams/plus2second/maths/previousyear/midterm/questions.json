@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "question": "[Mid-term] What is the limit of (sin x)/x as x approaches 0?",
+    "options": [
+      "0",
+      "1",
+      "∞",
+      "undefined"
+    ],
+    "answer": "1"
+  },
+  {
+    "id": 2,
+    "question": "[Mid-term] What is the area under the curve y = x² from 0 to 1?",
+    "options": [
+      "1/2",
+      "1/3",
+      "1/4",
+      "1"
+    ],
+    "answer": "1/3"
+  },
+  {
+    "id": 3,
+    "question": "[Mid-term] What is the limit of (sin x)/x as x approaches 0?",
+    "options": [
+      "0",
+      "1",
+      "∞",
+      "undefined"
+    ],
+    "answer": "1"
+  },
+  {
+    "id": 4,
+    "question": "[Mid-term] What is the area under the curve y = x² from 0 to 1?",
+    "options": [
+      "1/2",
+      "1/3",
+      "1/4",
+      "1"
+    ],
+    "answer": "1/3"
+  },
+  {
+    "id": 5,
+    "question": "[Mid-term] What is the limit of (sin x)/x as x approaches 0?",
+    "options": [
+      "0",
+      "1",
+      "∞",
+      "undefined"
+    ],
+    "answer": "1"
+  },
+  {
+    "id": 6,
+    "question": "[Mid-term] What is the area under the curve y = x² from 0 to 1?",
+    "options": [
+      "1/2",
+      "1/3",
+      "1/4",
+      "1"
+    ],
+    "answer": "1/3"
+  },
+  {
+    "id": 7,
+    "question": "[Mid-term] What is the limit of (sin x)/x as x approaches 0?",
+    "options": [
+      "0",
+      "1",
+      "∞",
+      "undefined"
+    ],
+    "answer": "1"
+  },
+  {
+    "id": 8,
+    "question": "[Mid-term] What is the area under the curve y = x² from 0 to 1?",
+    "options": [
+      "1/2",
+      "1/3",
+      "1/4",
+      "1"
+    ],
+    "answer": "1/3"
+  },
+  {
+    "id": 9,
+    "question": "[Mid-term] What is the limit of (sin x)/x as x approaches 0?",
+    "options": [
+      "0",
+      "1",
+      "∞",
+      "undefined"
+    ],
+    "answer": "1"
+  },
+  {
+    "id": 10,
+    "question": "[Mid-term] What is the area under the curve y = x² from 0 to 1?",
+    "options": [
+      "1/2",
+      "1/3",
+      "1/4",
+      "1"
+    ],
+    "answer": "1/3"
+  },
+  {
+    "id": 11,
+    "question": "[Mid-term] What is the limit of (sin x)/x as x approaches 0?",
+    "options": [
+      "0",
+      "1",
+      "∞",
+      "undefined"
+    ],
+    "answer": "1"
+  },
+  {
+    "id": 12,
+    "question": "[Mid-term] What is the area under the curve y = x² from 0 to 1?",
+    "options": [
+      "1/2",
+      "1/3",
+      "1/4",
+      "1"
+    ],
+    "answer": "1/3"
+  },
+  {
+    "id": 13,
+    "question": "[Mid-term] What is the limit of (sin x)/x as x approaches 0?",
+    "options": [
+      "0",
+      "1",
+      "∞",
+      "undefined"
+    ],
+    "answer": "1"
+  },
+  {
+    "id": 14,
+    "question": "[Mid-term] What is the area under the curve y = x² from 0 to 1?",
+    "options": [
+      "1/2",
+      "1/3",
+      "1/4",
+      "1"
+    ],
+    "answer": "1/3"
+  },
+  {
+    "id": 15,
+    "question": "[Mid-term] What is the limit of (sin x)/x as x approaches 0?",
+    "options": [
+      "0",
+      "1",
+      "∞",
+      "undefined"
+    ],
+    "answer": "1"
+  }
+]

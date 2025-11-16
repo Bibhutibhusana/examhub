@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "question": "What is the opposite of 'big'?",
+    "options": ["Small", "Large", "Tall", "Wide"],
+    "answer": "Small"
+  },
+  {
+    "id": 2,
+    "question": "Which word means 'a place where we live'?",
+    "options": ["School", "Home", "Park", "Shop"],
+    "answer": "Home"
+  },
+  {
+    "id": 3,
+    "question": "What is the opposite of 'hot'?",
+    "options": ["Cold", "Warm", "Wet", "Dry"],
+    "answer": "Cold"
+  },
+  {
+    "id": 4,
+    "question": "Which animal says 'meow'?",
+    "options": ["Dog", "Cat", "Cow", "Duck"],
+    "answer": "Cat"
+  },
+  {
+    "id": 5,
+    "question": "What do we use to eat soup?",
+    "options": ["Fork", "Knife", "Spoon", "Plate"],
+    "answer": "Spoon"
+  },
+  {
+    "id": 6,
+    "question": "Which is a fruit?",
+    "options": ["Carrot", "Apple", "Potato", "Onion"],
+    "answer": "Apple"
+  },
+  {
+    "id": 7,
+    "question": "What is the opposite of 'fast'?",
+    "options": ["Slow", "Quick", "Speedy", "Rapid"],
+    "answer": "Slow"
+  },
+  {
+    "id": 8,
+    "question": "Which word means 'many'?",
+    "options": ["Few", "Some", "Many", "One"],
+    "answer": "Many"
+  },
+  {
+    "id": 9,
+    "question": "What do we wear on our feet?",
+    "options": ["Shoes", "Hat", "Gloves", "Belt"],
+    "answer": "Shoes"
+  },
+  {
+    "id": 10,
+    "question": "Which is a vegetable?",
+    "options": ["Banana", "Carrot", "Orange", "Grape"],
+    "answer": "Carrot"
+  },
+  {
+    "id": 11,
+    "question": "What is the opposite of 'wet'?",
+    "options": ["Dry", "Hot", "Cold", "Warm"],
+    "answer": "Dry"
+  },
+  {
+    "id": 12,
+    "question": "Which animal lives in water?",
+    "options": ["Cow", "Dog", "Fish", "Cat"],
+    "answer": "Fish"
+  },
+  {
+    "id": 13,
+    "question": "What do we use to write?",
+    "options": ["Book", "Pen", "Table", "Chair"],
+    "answer": "Pen"
+  },
+  {
+    "id": 14,
+    "question": "Which is bigger - elephant or mouse?",
+    "options": ["Mouse", "Elephant", "Both same", "None"],
+    "answer": "Elephant"
+  },
+  {
+    "id": 15,
+    "question": "What is the opposite of 'up'?",
+    "options": ["Down", "Left", "Right", "Front"],
+    "answer": "Down"
+  },
+  {
+    "id": 16,
+    "question": "Which word means 'happy'?",
+    "options": ["Sad", "Angry", "Happy", "Tired"],
+    "answer": "Happy"
+  },
+  {
+    "id": 17,
+    "question": "What do birds have?",
+    "options": ["Wings", "Fins", "Horns", "Teeth"],
+    "answer": "Wings"
+  },
+  {
+    "id": 18,
+    "question": "Which is a color?",
+    "options": ["Sweet", "Red", "Bitter", "Sour"],
+    "answer": "Red"
+  },
+  {
+    "id": 19,
+    "question": "What do we drink?",
+    "options": ["Bread", "Water", "Chair", "Book"],
+    "answer": "Water"
+  },
+  {
+    "id": 20,
+    "question": "Which animal has stripes?",
+    "options": ["Lion", "Tiger", "Elephant", "Giraffe"],
+    "answer": "Tiger"
+  },
+  {
+    "id": 21,
+    "question": "What is the opposite of 'day'?",
+    "options": ["Night", "Morning", "Evening", "Afternoon"],
+    "answer": "Night"
+  },
+  {
+    "id": 22,
+    "question": "Which word means 'one'?",
+    "options": ["Two", "Three", "One", "Many"],
+    "answer": "One"
+  },
+  {
+    "id": 23,
+    "question": "What do we use to cut?",
+    "options": ["Pen", "Scissors", "Book", "Table"],
+    "answer": "Scissors"
+  },
+  {
+    "id": 24,
+    "question": "Which is a flower?",
+    "options": ["Rose", "Carrot", "Potato", "Onion"],
+    "answer": "Rose"
+  },
+  {
+    "id": 25,
+    "question": "What is the opposite of 'full'?",
+    "options": ["Empty", "Half", "Big", "Small"],
+    "answer": "Empty"
+  },
+  {
+    "id": 26,
+    "question": "Which animal says 'woof'?",
+    "options": ["Cat", "Dog", "Cow", "Duck"],
+    "answer": "Dog"
+  },
+  {
+    "id": 27,
+    "question": "What do we eat for breakfast?",
+    "options": ["Soap", "Bread", "Shampoo", "Toothpaste"],
+    "answer": "Bread"
+  },
+  {
+    "id": 28,
+    "question": "Which is round?",
+    "options": ["Box", "Ball", "Book", "Table"],
+    "answer": "Ball"
+  },
+  {
+    "id": 29,
+    "question": "What is the opposite of 'old'?",
+    "options": ["New", "Big", "Small", "Tall"],
+    "answer": "New"
+  },
+  {
+    "id": 30,
+    "question": "Which word means 'good'?",
+    "options": ["Bad", "Sad", "Good", "Mad"],
+    "answer": "Good"
+  }
+]

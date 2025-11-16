@@ -1,0 +1,2 @@
+import{C as r}from"./entry.qTjs2xIljDpc.js";function s(o){return!["Russian Federation (the)","Belarus","Iran (Islamic Republic of)"].includes(o)}function c(o){const t=e(o);return r.sha256(t)}function e(o){if(!o)return"";const t=["gmail.com","googlemail.com"],i=o.trim().toLowerCase(),[n,a]=i.split("@");return t.includes(a)&&(o=`${n.replace(/\./g,"")}@${a}`),o}export{s as c,c as n};
+//# sourceMappingURL=chunk.DIHXZJsHMx5r.js.map
