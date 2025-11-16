@@ -42,6 +42,8 @@ const StudentDashboard = () => {
     }
   }, [authLoading, isAuthenticated, currentUser, userData, navigate]);
 
+  const isPremium = userData?.subscriptionType === 'premium';
+
   useEffect(() => {
     const fetchPaidExamSets = async () => {
       if (selectedClass && isPremium) {
@@ -111,7 +113,6 @@ const StudentDashboard = () => {
   }
 
   const freeExamsRemaining = Math.max(0, 10 - (userData.examCount || 0));
-  const isPremium = userData.subscriptionType === 'premium';
 
   return (
     <div className="student-dashboard">
