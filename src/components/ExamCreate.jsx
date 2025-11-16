@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { getFirestore, collection, addDoc } from 'firebase/firestore';
 import { getAuth } from 'firebase/auth';
+import { getStorage, ref, getDownloadURL } from 'firebase/storage';
 
 export default function ExamCreate() {
   const [title, setTitle] = useState('');
@@ -15,6 +16,15 @@ export default function ExamCreate() {
     const user = auth.currentUser;
     if (!user) return alert('Sign in required');
 
+    // Load questions from JSON file
+    const questionsPath = `/src/assets/exams/${selectedClass}/questions.json`;
+    const response = await fetch(questionsPath);
+    if (!response.ok) {
+      alert('Failed to load questions file');
+      return;
+    }
+    const questions = await response.json();
+
     // Create exam metadata in Firestore
     const db = getFirestore();
     const doc = await addDoc(collection(db, 'exams'), {
@@ -24,9 +34,22 @@ export default function ExamCreate() {
       published,
       selectedClass,
       examType,
-      questionsPath: `/src/assets/exam/${selectedClass}/${examType}/questions.json`,
       createdAt: new Date().toISOString()
     });
+
+    // Store each question in Firestore
+    const questionsCollection = collection(db, 'questions');
+    const batch = [];
+    for (const question of questions) {
+      batch.push(addDoc(questionsCollection, {
+        examId: doc.id,
+        text: question.question,
+        options: question.options,
+        answer: question.answer,
+        type: 'mcq'
+      }));
+    }
+    await Promise.all(batch);
 
     setTitle('');
     setDuration(30);

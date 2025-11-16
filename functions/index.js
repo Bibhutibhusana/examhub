@@ -5,6 +5,17 @@ const cors = require('cors');
 const cookieParser = require('cookie-parser');
 const { v4: uuidv4 } = require('uuid');
 
+// Simple hash function for shuffling
+function hashString(str) {
+  let hash = 0;
+  for (let i = 0; i < str.length; i++) {
+    const char = str.charCodeAt(i);
+    hash = ((hash << 5) - hash) + char;
+    hash = hash & hash; // Convert to 32bit integer
+  }
+  return hash;
+}
+
 admin.initializeApp();
 const db = admin.firestore();
 
@@ -77,8 +88,14 @@ app.get('/sessions/:sessionId/questions', async (req, res) => {
     qs.push({ id: d.id, text: data.text, options: data.options || null, type: data.type || 'mcq' });
   });
 
-  // TODO: apply deterministic shuffle using s.seed
-  return res.json(qs);
+  // Apply deterministic shuffle using s.seed
+  const shuffledQs = qs.sort((a, b) => {
+    const hashA = hashString(a.id + s.seed);
+    const hashB = hashString(b.id + s.seed);
+    return hashA - hashB;
+  });
+
+  return res.json(shuffledQs);
 });
 
 // Save answers

@@ -1,9 +1,7 @@
-# Upcoming Exams Banner Implementation
-
-## Tasks
-- [ ] Modify StudentDashboard.jsx to fetch upcoming exams and add banner component
-- [ ] Create ExamPage.jsx component for taking exams
-- [ ] Update App.jsx to add /exam/:id route
-- [ ] Add CSS styles for the upcoming exams banner
-- [ ] Test banner display and navigation logic
-- [ ] Add sample exam data to Firestore for testing
+# TODO: Store Exam Information in Firebase  
+  
+## Tasks  
+- [x] Update ExamCreate.jsx: Load questions from JSON file and store each in Firestore 'questions' collection with examId.
+- [x] Update examApi.js: Remove local asset loading, always fetch questions via API.
+- [x] Update functions/index.js: Verify and ensure questions endpoint properly fetches questions from Firestore.
+- [ ] Test: Create an exam, verify questions stored in Firestore, and fetching works in ExamPlayer.
